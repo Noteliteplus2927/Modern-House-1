@@ -26,8 +26,8 @@ The mission for this project is to craft a **minimalist, high-concept modern hom
 
 ### 📈 Progress Tracker
 
-- [x] Concept & Reference Research  
-- [x] Color Key for MS Paint Layouts  
+- [ ] Concept & Reference Research  
+- [ ] Color Key for MS Paint Layouts  
 - [ ] Initial Floor Plan Draft in MS Paint  
 - [ ] 3D Prototyping in Roblox Studio  
 - [ ] Final 3D Modeling & Rendering in Blender  
