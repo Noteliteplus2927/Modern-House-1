@@ -1,28 +1,36 @@
 # Project 01: Modern Residential Study 🏗️
 
-> "The journey of a thousand miles begins with a single blueprint." 
+> "Blueprints first, brilliance follows."
 
-### 🎯 The Vision & Goal
-My goal for this project is to design a **minimalist, high-concept modern home**. I’m focusing on open-concept living, floor-to-ceiling glass walls, and sustainable materials.
+### 🎯 Vision & Goal
+The mission for this project is to craft a **minimalist, high-concept modern home** that balances style and functionality. Focus areas include:  
 
-![Goal Image](YOUR_IMAGE_URL_HERE)
-*Visualizing the vibe: Clean lines and natural light.*
+- Open-concept living spaces for fluid movement  
+- Floor-to-ceiling glass walls to maximize natural light  
+- Sustainable, cost-effective materials for eco-conscious design  
+- Clean lines and a neutral, natural aesthetic  
+
+![Modern Home Concept](https://postandporch.com/blogs/news/small-modern-house-design?srsltid=AfmBOoqj2qkm6TkzLy6lKycKRmciMwbaH9bI2NN46_3doVbiUzSvJ6Vl)  
+*Example: Top-down floor plan with furniture layout and key material palette.*
 
 ---
 
-### 🛠️ The Tech Stack (My Tools)
+### 🛠️ Tools & Workflow
 
-| App / Tool | Why I'm Using It |
+| Tool | Purpose / Value |
 | :--- | :--- |
-| **SketchUp / AutoCAD** | To build precise 3D models and handle the spatial scaling. |
-| **Pinterest / Figma** | For mood-boarding and mapping out the interior aesthetic. |
-| **Notion** | To track my daily progress and architectural research. |
-| **GitHub** | To document the evolution of the project from Day 1. |
+| **MS Paint** | For fast, top-down room layouts with custom color coding for doors, walls, stairs, and furniture. Perfect for early-stage planning. |
+| **Roblox Studio** | To prototype 3D spaces and test scale, layout, and movement in a virtual environment. |
+| **Blender** | For detailed 3D modeling, realistic renders, and final visual presentation of the home design. |
 
 ---
 
-### 📈 Progress Log
-- [x] Concept Research
-- [ ] Initial Floor Plan 
-- [ ] 3D Exterior Mockup
-- [ ] Interior Lighting Study
+### 📈 Progress Tracker
+
+- [x] Concept & Reference Research  
+- [x] Color Key for MS Paint Layouts  
+- [ ] Initial Floor Plan Draft in MS Paint  
+- [ ] 3D Prototyping in Roblox Studio  
+- [ ] Final 3D Modeling & Rendering in Blender  
+- [ ] Interior Lighting & Material Study  
+- [ ] Final Render & Presentation  
