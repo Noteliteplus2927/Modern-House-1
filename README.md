@@ -1,6 +1,5 @@
 # Project 01: Modern Residential Study 🏗️
 
-> "Blueprints first, brilliance follows."
 
 ### 🎯 Vision & Goal
 The mission for this project is to craft a **minimalist, high-concept modern home** that balances style and functionality. Focus areas include:  
