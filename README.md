@@ -10,7 +10,7 @@ The mission for this project is to craft a **minimalist, high-concept modern hom
 - Sustainable, cost-effective materials for eco-conscious design  
 - Clean lines and a neutral, natural aesthetic  
 
-![Modern Home Concept](https://postandporch.com/blogs/news/small-modern-house-design?srsltid=AfmBOoqj2qkm6TkzLy6lKycKRmciMwbaH9bI2NN46_3doVbiUzSvJ6Vl)  
+![Modern Home Concept](https://postandporch.com/cdn/shop/articles/AdobeStock_291431870.jpg?v=1662577222&width=5250)  
 *Example: Top-down floor plan with furniture layout and key material palette.*
 
 ---
